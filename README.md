@@ -10,3 +10,5 @@
 - Merge Sorted Array
 - Binary Tree Inorder Traversal
 - Symmetric Tree
+- Maximum Depth of Binary Tree
+- Convert Sorted Array to Binary Search Tree
