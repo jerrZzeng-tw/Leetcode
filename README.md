@@ -5,3 +5,8 @@
 - Valid Parentheses
 - Two Sum
 - Roman to Integer
+- Sqrt(x)
+- Climbing Stairs
+- Merge Sorted Array
+- Binary Tree Inorder Traversal
+- Symmetric Tree
