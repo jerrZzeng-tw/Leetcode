@@ -15,3 +15,6 @@
 - Convert Sorted Array to Binary Search Tree
 - Pascal's Triangle
 - Best Time to Buy and Sell Stock
+- Valid Palindrome
+- SingleNumber
+- Linked List Cycle
