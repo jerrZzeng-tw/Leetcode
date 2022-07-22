@@ -1,4 +1,5 @@
-# leetcode test 
+# leetcode test
+
 - Merge Two Sorted Lists
 - Plus One
 - Remove Duplicates from Sorted Array
@@ -12,3 +13,5 @@
 - Symmetric Tree
 - Maximum Depth of Binary Tree
 - Convert Sorted Array to Binary Search Tree
+- Pascal's Triangle
+- Best Time to Buy and Sell Stock
