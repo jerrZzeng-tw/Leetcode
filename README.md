@@ -18,3 +18,9 @@
 - Valid Palindrome
 - SingleNumber
 - Linked List Cycle
+- Intersection of Two Linked Lists
+- Missing Ranges
+- Majority Element
+- Excel Sheet Column Number
+- Number of 1 Bits
+- Reverse Bits
