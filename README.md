@@ -24,3 +24,6 @@
 - Excel Sheet Column Number
 - Number of 1 Bits
 - Reverse Bits
+- Happy Number
+- Reverse Linked List
+- Contains Duplicate
