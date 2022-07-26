@@ -27,3 +27,11 @@
 - Happy Number
 - Reverse Linked List
 - Contains Duplicate
+- Palindrome Linked List
+- Delete Node in a Linked List
+- Valid Anagram
+- Missing Number
+- Move Zeroes
+- Power of Three
+- Reverse String
+- Intersection of Two Arrays II
