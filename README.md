@@ -35,3 +35,5 @@
 - Power of Three
 - Reverse String
 - Intersection of Two Arrays II
+- First Unique Character in a String
+- Fizz Buzz
