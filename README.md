@@ -42,3 +42,6 @@
 - Diameter of Binary Tree
 
 # leetcode medium
+
+- Find and Replace Pattern
+- Add Two Numbers

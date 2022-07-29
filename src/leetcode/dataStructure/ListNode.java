@@ -29,4 +29,22 @@ public class ListNode {
         }
         return slow;
     }
+
+    public static ListNode getNode(int[] nums) {
+        ListNode root = new ListNode(0);
+        ListNode pre = root;
+        for (int val : nums) {
+            pre.next = new ListNode(val);
+            pre = pre.next;
+        }
+        return root.next;
+    }
+
+    public static void printAll(ListNode root) {
+        ListNode node = root;
+        while (node != null) {
+            System.out.println(node.val);
+            node = node.next;
+        }
+    }
 }
