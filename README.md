@@ -37,3 +37,6 @@
 - Intersection of Two Arrays II
 - First Unique Character in a String
 - Fizz Buzz
+- Search Insert Position
+- Invert Binary Tree
+- Diameter of Binary Tree
