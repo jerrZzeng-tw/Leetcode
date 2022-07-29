@@ -1,4 +1,4 @@
-# leetcode test
+# leetcode easy
 
 - Merge Two Sorted Lists
 - Plus One
@@ -40,3 +40,5 @@
 - Search Insert Position
 - Invert Binary Tree
 - Diameter of Binary Tree
+
+# leetcode medium
