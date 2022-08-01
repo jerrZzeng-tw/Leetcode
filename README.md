@@ -45,3 +45,6 @@
 
 - Find and Replace Pattern
 - Add Two Numbers
+- Longest Substring Without Repeating Characters
+- Longest Palindromic Substring
+- Container With Most Water
