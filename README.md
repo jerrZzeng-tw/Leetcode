@@ -48,3 +48,7 @@
 - Longest Substring Without Repeating Characters
 - Longest Palindromic Substring
 - Container With Most Water
+- ThreeSum
+- Letter Combinations of a Phone Number
+- Remove Nth Node From End of List
+- Generate Parentheses
