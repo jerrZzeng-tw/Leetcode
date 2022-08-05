@@ -52,3 +52,8 @@
 - Letter Combinations of a Phone Number
 - Remove Nth Node From End of List
 - Generate Parentheses
+- Swap Nodes in Pairs
+- Next Permutation
+- Search in Rotated Sorted Array
+- Find First and Last Position of Element in Sorted Array
+- Reverse Integer
