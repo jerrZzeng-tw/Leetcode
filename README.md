@@ -57,3 +57,6 @@
 - Search in Rotated Sorted Array
 - Find First and Last Position of Element in Sorted Array
 - Reverse Integer
+- Valid Sudoku
+- Count and Say
+- Permutations
