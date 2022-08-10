@@ -60,3 +60,6 @@
 - Valid Sudoku
 - Count and Say
 - Permutations
+- Rotate Image
+- Group Anagrams
+- Maximum Subarray
