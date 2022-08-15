@@ -63,3 +63,8 @@
 - Rotate Image
 - Group Anagrams
 - Maximum Subarray
+- Spiral Matrix
+- Jump Game
+- Merge Intervals
+- Unique Paths
+- Set Matrix Zeroes
