@@ -68,3 +68,6 @@
 - Merge Intervals
 - Unique Paths
 - Set Matrix Zeroes
+- Sort Colors
+- Subsets
+- Word Search
