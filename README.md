@@ -71,3 +71,5 @@
 - Sort Colors
 - Subsets
 - Word Search
+- Decode Ways
+- Validate Binary Search Tree
