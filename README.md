@@ -73,3 +73,6 @@
 - Word Search
 - Decode Ways
 - Validate Binary Search Tree
+- Binary Tree Level Order Traversal
+- Binary Tree Zigzag Level Order Traversal
+- Construct Binary Tree from Preorder and Inorder Traversal
