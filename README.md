@@ -40,6 +40,10 @@
 - Search Insert Position
 - Invert Binary Tree
 - Diameter of Binary Tree
+- Palindrome Number
+- Remove Element
+- Length of Last Word
+- Add Binary
 
 # leetcode medium
 
