@@ -74,4 +74,11 @@ public class TreeNode {
         }
         return list;
     }
+
+    public static int getHigh(TreeNode node) {
+        if (node == null) {
+            return 0;
+        }
+        return Math.max(getHigh(node.left), getHigh(node.right)) + 1;
+    }
 }

@@ -44,6 +44,13 @@
 - Remove Element
 - Length of Last Word
 - Add Binary
+- Remove Duplicates from Sorted List
+- Balanced Binary Tree
+- Minimum Depth of Binary Tree
+- Path Sum
+- Binary Tree Preorder Traversal
+- Binary Tree Postorder Traversal
+- Excel Sheet Column Title
 
 # leetcode medium
 
