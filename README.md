@@ -51,6 +51,11 @@
 - Binary Tree Preorder Traversal
 - Binary Tree Postorder Traversal
 - Excel Sheet Column Title
+- Remove Linked List Elements
+- Isomorphic Strings
+- Contains Duplicate II
+- MyStack
+- Binary Tree Paths
 
 # leetcode medium
 
