@@ -56,6 +56,12 @@
 - Contains Duplicate II
 - MyStack
 - Binary Tree Paths
+- Add Digits
+- Ugly Number
+- First Bad Version
+- Word Pattern
+- Nim Game
+- Reverse Vowels of a String
 
 # leetcode medium
 
