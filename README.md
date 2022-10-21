@@ -62,6 +62,10 @@
 - Word Pattern
 - Nim Game
 - Reverse Vowels of a String
+- Guess Number Higher or Lower
+- Ransom Note
+- Find the Difference
+- Is Subsequence
 
 # leetcode medium
 
