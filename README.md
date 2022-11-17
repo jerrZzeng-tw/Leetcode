@@ -66,6 +66,10 @@
 - Ransom Note
 - Find the Difference
 - Is Subsequence
+- Sum of Left Leaves
+- Longest Palindrome
+- Third Maximum Number
+- Add Strings
 
 # leetcode medium
 
