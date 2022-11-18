@@ -70,6 +70,10 @@
 - Longest Palindrome
 - Third Maximum Number
 - Add Strings
+- Number of Segments in a String
+- Arranging Coins
+- Find All Numbers Disappeared in an Array
+- Assign Cookies
 
 # leetcode medium
 
