@@ -77,6 +77,11 @@
 - Repeated Substring Pattern
 - Island Perimeter
 - License Key Formatting
+- Max Consecutive Ones
+- Construct the Rectangle
+- Teemo Attacking
+- Next Greater Element I
+- Keyboard Row
 
 # leetcode medium
 
