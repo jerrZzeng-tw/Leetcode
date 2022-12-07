@@ -74,6 +74,9 @@
 - Arranging Coins
 - Find All Numbers Disappeared in an Array
 - Assign Cookies
+- Repeated Substring Pattern
+- Island Perimeter
+- License Key Formatting
 
 # leetcode medium
 
