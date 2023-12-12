@@ -81,4 +81,39 @@ public class TreeNode {
         }
         return Math.max(getHigh(node.left), getHigh(node.right)) + 1;
     }
+
+    public static TreeNode searchBST(TreeNode node, Integer val) {
+        if (node == null) {
+            return null;
+        }
+        if (node.val == val) {
+            return node;
+        } else if (node.val < val) {
+            return searchBST(node.right, val);
+        } else {
+            return searchBST(node.left, val);
+        }
+
+    }
+
+    public static int countBST(TreeNode root, Integer val) {
+        if (root == null) {
+            return 0;
+        } else if (root.val == val) {
+            return 1 + countBST(root.left, val) + countBST(root.right, val);
+        } else if (root.val > val) {
+            return countBST(root.left, val);
+        } else {
+            return countBST(root.right, val);
+        }
+    }
+
+    public static void inOrderTraversal(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        inOrderTraversal(root.left);
+        System.out.println(root.val);
+        inOrderTraversal(root.right);
+    }
 }

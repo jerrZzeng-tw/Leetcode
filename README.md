@@ -82,6 +82,10 @@
 - Teemo Attacking
 - Next Greater Element I
 - Keyboard Row
+- Find Mode in Binary Search Tree
+- Relative Ranks
+- Perfect Number
+- Fibonacci Number
 
 # leetcode medium
 
